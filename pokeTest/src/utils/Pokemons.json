@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "name": "Bulbasaur",
+    "type": [
+      "Planta",
+      "Veneno"
+    ],
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/001.png"
+  },
+  {
+    "id": 2,
+    "name": "Charmander",
+    "type": [
+      "Fuego"
+    ],
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/004.png"
+  }
+]
